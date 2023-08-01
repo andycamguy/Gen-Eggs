@@ -1,0 +1,19 @@
+{
+    "chickens": [
+      {
+        "name": "Fluffy",
+        "breed": "Rhode Island Red",
+        "egg color": "brown"
+      },
+      {
+        "name": "Buddy",
+        "breed": "Plymouth Rock",
+        "egg color":"brown"
+      },
+      {
+        "name": "Daisy",
+        "breed": "Leghorn",
+        "egg color": "white"
+      }
+    ]
+  }
